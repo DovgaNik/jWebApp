@@ -10,5 +10,6 @@
         <br/>
         <a href="hello-servlet">Hello Servlet</a>
         <a href="info-servlet">View information</a>
+        <a href="db-connect">DB test</a>
     </body>
 </html>
