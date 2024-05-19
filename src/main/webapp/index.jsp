@@ -2,14 +2,14 @@
 <!DOCTYPE html>
     <html>
     <head>
-        <title>Hello</title>
+        <title>Java web app</title>
     </head>
 
     <body>
-        <h1><%= "My first java web app" %></h1>
-        <br/>
-        <a href="hello-servlet">Hello Servlet</a>
-        <a href="info-servlet">View information</a>
-        <a href="db-connect">DB test</a>
+        <h1><%= "My first java web app" %></h1> <br/>
+        <a href="hello-servlet">Hello Servlet</a> <br/>
+        <a href="info-servlet">View information</a> <br/>
+        <a href="db-connect">DB test</a> <br/>
+        <a href="db-add">Add to DB</a> <br/>
     </body>
 </html>
