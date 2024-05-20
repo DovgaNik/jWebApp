@@ -11,5 +11,7 @@
         <a href="info-servlet">View information</a> <br/>
         <a href="db-connect">DB test</a> <br/>
         <a href="db-add">Add to DB</a> <br/>
+        <a href="db-view">View DB</a> <br/>
+        <a href="db-delete">Delete from DB</a> <br/>
     </body>
 </html>
